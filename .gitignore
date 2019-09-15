@@ -121,3 +121,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Testing results txt files
+50RandomSongs*.txt
